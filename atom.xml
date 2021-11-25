@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://SHIRONE200.github.io</id>
+    <id>https://SHIRONE2000.github.io</id>
     <title>5G</title>
-    <updated>2021-11-25T03:11:00.623Z</updated>
+    <updated>2021-11-25T03:13:47.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://SHIRONE200.github.io"/>
-    <link rel="self" href="https://SHIRONE200.github.io/atom.xml"/>
+    <link rel="alternate" href="https://SHIRONE2000.github.io"/>
+    <link rel="self" href="https://SHIRONE2000.github.io/atom.xml"/>
     <subtitle>Technology final project</subtitle>
-    <logo>https://SHIRONE200.github.io/images/avatar.png</logo>
-    <icon>https://SHIRONE200.github.io/favicon.ico</icon>
+    <logo>https://SHIRONE2000.github.io/images/avatar.png</logo>
+    <icon>https://SHIRONE2000.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 5G</rights>
     <entry>
         <title type="html"><![CDATA[How 5G empowers industry innovation]]></title>
-        <id>https://SHIRONE200.github.io/post/how-5g-empowers-industry-innovation/</id>
-        <link href="https://SHIRONE200.github.io/post/how-5g-empowers-industry-innovation/">
+        <id>https://SHIRONE2000.github.io/post/how-5g-empowers-industry-innovation/</id>
+        <link href="https://SHIRONE2000.github.io/post/how-5g-empowers-industry-innovation/">
         </link>
         <updated>2021-11-24T14:59:53.000Z</updated>
         <content type="html"><![CDATA[<p>Who created 5G?</p>
@@ -30,17 +30,17 @@
 <p>The need to feed a growing population, water shortages in many parts of the world, and the need to sustainably use less fertilizers and reduce environmental impact to increase crop yields-the agricultural sector faces many challenges.</p>
 <p>5G helps meet these challenges by accelerating the digitalization of agriculture and connecting all aspects of business. The miniature soil sensor can measure watering and fertilization needs to minimize usage, and the battery life of the battery connected to 5G can be up to 10 years.</p>
 <p>The same network can also connect self-driving agricultural robots with mission-critical connections, making them autonomous and coordinated, thereby increasing productivity and safety.</p>
-<figure data-type="image" tabindex="1"><img src="https://SHIRONE200.github.io/post-images/1637809349358.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://SHIRONE2000.github.io/post-images/1637809349358.jpg" alt="" loading="lazy"></figure>
 <p>opinion support: https://www.ericsson.com/en/5g/5g-vs-4g</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pros and cons of 5G technology]]></title>
-        <id>https://SHIRONE200.github.io/post/pros-and-cons-of-5g-technology/</id>
-        <link href="https://SHIRONE200.github.io/post/pros-and-cons-of-5g-technology/">
+        <id>https://SHIRONE2000.github.io/post/pros-and-cons-of-5g-technology/</id>
+        <link href="https://SHIRONE2000.github.io/post/pros-and-cons-of-5g-technology/">
         </link>
         <updated>2021-11-24T02:51:26.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://SHIRONE200.github.io/post-images/1637808909420.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://SHIRONE2000.github.io/post-images/1637808909420.jpg" alt="" loading="lazy"><br>
 Advantages of 5G</p>
 <p>Compared with 4G and all previous standards, the speed and latency improvements brought by 5G have obvious and significant advantages. Another advantage of 5G technology is the inherent improvement of device support, which benefits from the smaller size and more accurate directional signal transmission that will accompany 5G's MIMO antenna array.</p>
 <p>The improved 5G network architecture will make the handover when users move from one cell to another more smoothly. This will improve the overall user experience by limiting data transmission interruptions and signal loss.</p>
@@ -55,16 +55,16 @@ Advantages of 5G</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[5G: Principles, Features]]></title>
-        <id>https://SHIRONE200.github.io/post/5g-principles-features-and-advantages/</id>
-        <link href="https://SHIRONE200.github.io/post/5g-principles-features-and-advantages/">
+        <id>https://SHIRONE2000.github.io/post/5g-principles-features-and-advantages/</id>
+        <link href="https://SHIRONE2000.github.io/post/5g-principles-features-and-advantages/">
         </link>
         <updated>2021-11-21T02:33:14.000Z</updated>
         <content type="html"><![CDATA[<p>Since the birth of the first generation of mobile network technology decades ago, this technology has undergone tremendous changes. Now, fifth-generation technology (5G) is expected to transmit data faster and more reliably than ever before.<br>
-<img src="https://SHIRONE200.github.io/post-images/1637807735975.jpg" alt="" loading="lazy"></p>
+<img src="https://SHIRONE2000.github.io/post-images/1637807735975.jpg" alt="" loading="lazy"></p>
 <p>What is 5G?</p>
 <p>5G refers to the fifth-generation mobile network. It aims to expand existing 4G cellular networks or even replace them completely. Each generation of technology is determined by many factors, such as the technology used, the time interval (delay) between sending and receiving signals, and the speed at which data is transmitted over the network to connected devices. The 5G network is expected to achieve gigabit speeds. At the same time, 5G services greatly reduce latency and can extend coverage to remote areas.</p>
 <p>However, 5G is currently only a blueprint, because only a few areas have established supporting infrastructure. South Korea has already promoted 5G technology nationwide, while Japan plans to complete network integration before hosting the next Olympic Games. The US Federal Communications Commission (FCC) and other countries or regions (such as Australia, China, and Europe) are also working with local service providers to expand 5G coverage.</p>
-<figure data-type="image" tabindex="1"><img src="https://SHIRONE200.github.io/post-images/1637808389089.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://SHIRONE2000.github.io/post-images/1637808389089.jpg" alt="" loading="lazy"></figure>
 <p>What is the meaning of 5G?</p>
 <p>With the increase of Internet users, 4G networks have become more and more congested. People use the same frequency network, which greatly increases the delay in daily use.</p>
 <p>Over time, download speeds will become slower and slower, and overall performance will be affected. With the increasing popularity of mobile phones, the inconvenience this brings to consumers is obvious.</p>
