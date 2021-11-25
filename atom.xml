@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SHIRONE200.github.io</id>
     <title>5G</title>
-    <updated>2021-11-25T02:32:26.786Z</updated>
+    <updated>2021-11-25T02:45:01.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SHIRONE200.github.io"/>
     <link rel="self" href="https://SHIRONE200.github.io/atom.xml"/>
@@ -10,4 +10,21 @@
     <logo>https://SHIRONE200.github.io/images/avatar.png</logo>
     <icon>https://SHIRONE200.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 5G</rights>
+    <entry>
+        <title type="html"><![CDATA[5G: Principles, Features and Advantages]]></title>
+        <id>https://SHIRONE200.github.io/post/5g-principles-features-and-advantages/</id>
+        <link href="https://SHIRONE200.github.io/post/5g-principles-features-and-advantages/">
+        </link>
+        <updated>2021-11-23T02:33:14.000Z</updated>
+        <content type="html"><![CDATA[<p>Since the birth of the first generation of mobile network technology decades ago, this technology has undergone tremendous changes. Now, fifth-generation technology (5G) is expected to transmit data faster and more reliably than ever before.<br>
+<img src="https://SHIRONE200.github.io/post-images/1637807735975.jpg" alt="" loading="lazy"></p>
+<p>What is 5G?</p>
+<p>5G refers to the fifth-generation mobile network. It aims to expand existing 4G cellular networks or even replace them completely. Each generation of technology is determined by many factors, such as the technology used, the time interval (delay) between sending and receiving signals, and the speed at which data is transmitted over the network to connected devices. The 5G network is expected to achieve gigabit speeds. At the same time, 5G services greatly reduce latency and can extend coverage to remote areas.</p>
+<p>However, 5G is currently only a blueprint, because only a few areas have established supporting infrastructure. South Korea has already promoted 5G technology nationwide, while Japan plans to complete network integration before hosting the next Olympic Games. The US Federal Communications Commission (FCC) and other countries or regions (such as Australia, China, and Europe) are also working with local service providers to expand 5G coverage.</p>
+<p>What is the meaning of 5G?</p>
+<p>With the increase of Internet users, 4G networks have become more and more congested. People use the same frequency network, which greatly increases the delay in daily use.</p>
+<p>Over time, download speeds will become slower and slower, and overall performance will be affected. With the increasing popularity of mobile phones, the inconvenience this brings to consumers is obvious.</p>
+<p>5G aims to solve these problems through the use of a variety of different technologies, and to increase download speeds by using low-frequency (below 6 GHz) signals.</p>
+]]></content>
+    </entry>
 </feed>
