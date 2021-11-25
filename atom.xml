@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SHIRONE200.github.io</id>
     <title>5G</title>
-    <updated>2021-11-25T02:45:01.239Z</updated>
+    <updated>2021-11-25T02:51:45.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SHIRONE200.github.io"/>
     <link rel="self" href="https://SHIRONE200.github.io/atom.xml"/>
@@ -11,20 +11,42 @@
     <icon>https://SHIRONE200.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 5G</rights>
     <entry>
+        <title type="html"><![CDATA[Pros and cons of 5G technology]]></title>
+        <id>https://SHIRONE200.github.io/post/pros-and-cons-of-5g-technology/</id>
+        <link href="https://SHIRONE200.github.io/post/pros-and-cons-of-5g-technology/">
+        </link>
+        <updated>2021-11-24T14:51:26.000Z</updated>
+        <content type="html"><![CDATA[<p>Advantages of 5G</p>
+<p>Compared with 4G and all previous standards, the speed and latency improvements brought by 5G have obvious and significant advantages. Another advantage of 5G technology is the inherent improvement of device support, which benefits from the smaller size and more accurate directional signal transmission that will accompany 5G's MIMO antenna array.</p>
+<p>The improved 5G network architecture will make the handover when users move from one cell to another more smoothly. This will improve the overall user experience by limiting data transmission interruptions and signal loss.</p>
+<p>Defects and dangers of 5G technology</p>
+<p>Like the inherent advantages of 5G, many obvious defects also stem from the shift to higher frequencies and the characteristics of radio signals in millimeter waves. Shorter coverage and more susceptibility to obstacles are the most obvious disadvantages of this type of technology.</p>
+<p>In addition to obstacles such as buildings and trees, high frequencies are more susceptible to humidity and rainfall, so the originally limited range will be further challenged by suboptimal weather conditions. If more antennas can significantly improve the problem of limited coverage, then the aesthetic and environmental issues associated with this propagation will become another potential problem.</p>
+<p>Other disadvantages of 5G technology are related to cost. The antenna array is only one aspect of the deployment cost. The maintenance, repair, and troubleshooting of these arrays will be proportional to the larger hardware capacity. Although millimeter wave antennas for devices have been developed, their complexity may make economies of scale ineffective in reducing prices, and their costs will eventually be passed on to consumers by increasing communication fees.</p>
+<p>The concept of beams and smaller cell sizes in 5G decompose the basic coverage unit into packets much smaller than the old technology. These packages will be interactive and need to be configured and optimized to support coverage while maintaining capacity, while supporting mobility in appropriate scenarios.</p>
+<p>Planning, deploying, managing, operating and optimizing a more flexible network architecture on a virtualized infrastructure will bring new challenges to operators and require new expertise.</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5G: Principles, Features and Advantages]]></title>
         <id>https://SHIRONE200.github.io/post/5g-principles-features-and-advantages/</id>
         <link href="https://SHIRONE200.github.io/post/5g-principles-features-and-advantages/">
         </link>
-        <updated>2021-11-23T02:33:14.000Z</updated>
+        <updated>2021-11-21T14:33:14.000Z</updated>
         <content type="html"><![CDATA[<p>Since the birth of the first generation of mobile network technology decades ago, this technology has undergone tremendous changes. Now, fifth-generation technology (5G) is expected to transmit data faster and more reliably than ever before.<br>
 <img src="https://SHIRONE200.github.io/post-images/1637807735975.jpg" alt="" loading="lazy"></p>
 <p>What is 5G?</p>
 <p>5G refers to the fifth-generation mobile network. It aims to expand existing 4G cellular networks or even replace them completely. Each generation of technology is determined by many factors, such as the technology used, the time interval (delay) between sending and receiving signals, and the speed at which data is transmitted over the network to connected devices. The 5G network is expected to achieve gigabit speeds. At the same time, 5G services greatly reduce latency and can extend coverage to remote areas.</p>
 <p>However, 5G is currently only a blueprint, because only a few areas have established supporting infrastructure. South Korea has already promoted 5G technology nationwide, while Japan plans to complete network integration before hosting the next Olympic Games. The US Federal Communications Commission (FCC) and other countries or regions (such as Australia, China, and Europe) are also working with local service providers to expand 5G coverage.</p>
+<figure data-type="image" tabindex="1"><img src="https://SHIRONE200.github.io/post-images/1637808389089.jpg" alt="" loading="lazy"></figure>
 <p>What is the meaning of 5G?</p>
 <p>With the increase of Internet users, 4G networks have become more and more congested. People use the same frequency network, which greatly increases the delay in daily use.</p>
 <p>Over time, download speeds will become slower and slower, and overall performance will be affected. With the increasing popularity of mobile phones, the inconvenience this brings to consumers is obvious.</p>
 <p>5G aims to solve these problems through the use of a variety of different technologies, and to increase download speeds by using low-frequency (below 6 GHz) signals.</p>
+<p>The impact of 5G technology on consumers and businesses</p>
+<p>The most obvious and direct impact on consumers will be the exponential increase in streaming media capacity. Traditional home Wi-Fi systems connected to the Internet via wires or cables may in some cases become 5G direct connections because the speed will be comparable to most fiber optic networks.</p>
+<p>The long-term impact of 5G technology on the enterprise sector will be huge. Manufacturers of chips, basebands, and mobile phones are ready for revolutionary changes. Other industries, such as banking, automotive, and agriculture, will be significantly affected by the development of the Internet of Things (IoT). From ATMs to irrigation equipment, everything may eventually become part of a huge network of &quot;smart&quot; products.</p>
+<p>The medical industry may be the most affected, with billions of wearable devices streaming data to doctors and clinicians and improving the transfer of large data files from one provider to another.</p>
 ]]></content>
     </entry>
 </feed>
