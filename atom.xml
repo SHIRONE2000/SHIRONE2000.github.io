@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SHIRONE2000.github.io</id>
     <title>5G</title>
-    <updated>2021-11-25T03:13:47.858Z</updated>
+    <updated>2021-11-25T03:16:21.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SHIRONE2000.github.io"/>
     <link rel="self" href="https://SHIRONE2000.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://SHIRONE2000.github.io/post/how-5g-empowers-industry-innovation/</id>
         <link href="https://SHIRONE2000.github.io/post/how-5g-empowers-industry-innovation/">
         </link>
-        <updated>2021-11-24T14:59:53.000Z</updated>
+        <updated>2021-11-24T02:59:53.000Z</updated>
         <content type="html"><![CDATA[<p>Who created 5G?</p>
 <p>5G technology is developed by many different companies and organizations around the world through the cooperation of the standardization organization 3GPP. 5G is a global open standard, which means that anyone can understand its working principles and requirements. Global 5G standardization ensures that devices and networks can work together, making a major contribution to the development of 5G, especially in areas related to ultra-simplified radio design, security and user privacy, network slicing, and energy efficiency.</p>
 <p>5G and traffic</p>
@@ -29,8 +29,8 @@
 <p>5G and agriculture</p>
 <p>The need to feed a growing population, water shortages in many parts of the world, and the need to sustainably use less fertilizers and reduce environmental impact to increase crop yields-the agricultural sector faces many challenges.</p>
 <p>5G helps meet these challenges by accelerating the digitalization of agriculture and connecting all aspects of business. The miniature soil sensor can measure watering and fertilization needs to minimize usage, and the battery life of the battery connected to 5G can be up to 10 years.</p>
-<p>The same network can also connect self-driving agricultural robots with mission-critical connections, making them autonomous and coordinated, thereby increasing productivity and safety.</p>
-<figure data-type="image" tabindex="1"><img src="https://SHIRONE2000.github.io/post-images/1637809349358.jpg" alt="" loading="lazy"></figure>
+<p>The same network can also connect self-driving agricultural robots with mission-critical connections, making them autonomous and coordinated, thereby increasing productivity and safety.<br>
+<img src="https://SHIRONE2000.github.io/post-images/1637810146424.jpg" alt="" loading="lazy"></p>
 <p>opinion support: https://www.ericsson.com/en/5g/5g-vs-4g</p>
 ]]></content>
     </entry>
